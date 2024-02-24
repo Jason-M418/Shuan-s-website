@@ -7,3 +7,7 @@ button{
     border-radius: 5px;
     border-radius: round;
 }
+
+footer{
+    background-color: gray;
+}
